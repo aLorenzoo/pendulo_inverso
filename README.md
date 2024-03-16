@@ -11,5 +11,5 @@ En este txt iré describiendo alguno de los pasos y procesos que iré siguiendo 
 7. Conseguir los motores y las ruedas https://www.amazon.es/Gebildet-Motorreductor-Tracción-Robótico-Neumático/dp/B08D39MFN1/ref=asc_df_B08D39MFN1/?tag=&linkCode=df0&hvadid=420349540689&hvpos=&hvnetw=g&hvrand=10269854428416406848&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1005480&hvtargid=pla-937905506568&mcid=4c17839e2fe332fd8fbfa763e271e5d1&ref=&adgrpid=94419898965&th=1
 8. Diseñar una carcasa en 3D e imprimirla en la politécnica
 9. Montar y soldar todo
-10.Comprobar su funcionamiento y que cumple los requisitos pedidos en la práctica
-11.Pulir detalles
+10. Comprobar su funcionamiento y que cumple los requisitos pedidos en la práctica
+11. Pulir detalles
